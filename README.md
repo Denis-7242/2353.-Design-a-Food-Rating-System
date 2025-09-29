@@ -1,7 +1,7 @@
 # 🍽️ LeetCode 2353: Design a Food Rating System
 
 ## 📌 Problem Statement
-You are asked to design a food rating system that can:
+You are asked to design a food rating system that can :
 1. **Modify** the rating of a food item listed in the system.
 2. **Return** the highest-rated food item for a type of cuisine.
 
